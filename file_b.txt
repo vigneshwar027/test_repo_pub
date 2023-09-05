@@ -1,1 +1,1 @@
-text from b2
+text from b2-feature
